@@ -2,7 +2,7 @@
 
 * [C\# 表达式树](README.md)
 * [教程](dir/README.md)
-  * [1. 表达式树基础](dir/1.basic.md)
+  * [1. 表达式树基础](dir/1.base.md)
   * [2. 基础知识](dir/2.start.md)
   * [3. 变量、常量、赋值](dir/3.var.md)
   * [4. 五类运算符的表达](dir/4.operator.md)
