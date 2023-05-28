@@ -29,7 +29,7 @@
   },
   "pluginsConfig": {
     "tbfed-pagefooter": {
-      "copyright": "Copyright &copy 痴者工良 2022",
+      "copyright": "Copyright &copy 痴者工良 2023",
       "modify_label": "文档最后更新时间：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
